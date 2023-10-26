@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/doduwole/Documents/cpp/03.this",
+      "program": "/Users/doduwole/Documents/cpp/03.this/build/Debug/outDebug"
+    }
+  ]
+}
